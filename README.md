@@ -1,6 +1,6 @@
 # API de Tratamiento y Validación de Datos
 
-Aplicación Flask con autenticación JWT, documentación Swagger y servicios para sanitizar, validar y transformar información (texto, identidad, geolocalización, seguridad y traducción).
+Aplicación Flask con autenticación JWT, documentación Swagger y servicios para sanitizar, validar y transformar información como :texto, identidad, geolocalización, seguridad y traducción.
 
 ## Características
 
